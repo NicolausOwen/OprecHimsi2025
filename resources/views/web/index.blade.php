@@ -48,7 +48,12 @@
 
                                     <div class="spacer60"></div>
 
-                                    <a class="button button-flex registration-open" style="color: white !important">
+                                    <a class="button button-flex pre-registration" style="color: white !important">
+                                        STARTS IN :
+                                        <span id="pre-countdown"></span>
+                                    </a>
+
+                                    {{-- <a class="button button-flex registration-open" style="color: white !important;">
                                         CLOSED IN :
                                         <span id="countdown"></span>
                                     </a>
@@ -71,7 +76,7 @@
                                         Register
                                     </a>
 
-                                    <a href="{{ route('login') }}" class="button button--flex"
+                                    <a href="{{ route('login') }}" class="button button--flex registration-open"
                                         style="color: white !important">
                                         Login
                                     </a>
@@ -79,7 +84,7 @@
                                     <a href="{{ route('faq') }}" style="color: white !important"
                                         class="button button--flex registration-open" target="_blank">
                                         FAQ<i class="uil uil-question-circle button__icon"></i>
-                                    </a>
+                                    </a> --}}
                                 </div>
                             </div>
                         </div>
