@@ -171,7 +171,7 @@
                                         </li>
                                         <li>
                                             Mengumpulkan foto ukuran 3x4(bebas) dan
-                                            KHS semester genap tahun ajaran 2024/2025
+                                            KHS semester ganjil tahun ajaran 2024/2025
                                         </li>
                                         <li>Membuat tugas yang diberikan dinas</li>
                                     </ol>
