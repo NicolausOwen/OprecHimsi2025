@@ -19,7 +19,7 @@ class RegistrationController extends Controller
     }
 
     $data = [
-      'title' => 'REGISTRATION BPH HIMSI 2023',
+      'title' => 'REGISTRATION BPH HIMSI 2025',
       'nav' => [
         'active' => 'registration'
       ],
@@ -106,9 +106,9 @@ class RegistrationController extends Controller
       'wawancara' => ['required', 'string'],
       'idline' => ['required', 'string'],
       'instagram' => ['required', 'string'],
-      'foto' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:2048'],
+      'foto' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:4048'],
       'khs' => ['required', 'file', 'max:10000'],
-      'bukti_ss' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:2048'],
+      'bukti_ss' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:4048'],
       'password' => ['required'],
     ]);
 

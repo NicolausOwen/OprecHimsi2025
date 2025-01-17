@@ -425,7 +425,8 @@
                                 2025. <br /><br />
                                 Mari bersama membahu kita wujudkan visi misi kita.
                                 <br /><br />
-                                <strong>#BerkolaborasiDalamAmbisi</strong>
+                                <strong id="hastag">#RangkaiSinergiWujudkanTransformasi</strong>
+                                <strong id="hastag-space">#RangkaiSinergiWujudkan Transformasi</strong>
                             </div>
 
                             <br />
@@ -451,12 +452,21 @@
                             <div class="tagline"><span> Departemen/Divisi </span></div>
                             <br />
 
-                            @if (Auth::user()->lulus === 'Kastrad')
+                            @if (Auth::user()->lulus === 'Kastrad_Kastrat')
                                 <div class="regis__box">
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Departemen KASTRAD (Kajian Strategi dan Advokasi)
+                                        Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Kastrat (Kajian Strategi)
+                                    </p>
+                                </div>
+                                <br />
+                            @elseif (Auth::user()->lulus === 'Kastrad_Adkesma')
+                                <div class="regis__box">
+                                    <i class="bx bxs-group regis__icon"></i>
+                                    <p name="lulus" class="regis__input"
+                                        style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
+                                        Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Adkesma (Advokasi Kesejahteraan Mahasiswa)
                                     </p>
                                 </div>
                                 <br />
@@ -557,7 +567,7 @@
 
 
                             <center>
-                                @if (Auth::user()->lulus === 'Kastrad')
+                                @if (Auth::user()->lulus === 'Kastrad_Kastrat' || 'Kastrad_Adkesma')
                                     <p>
                                         <font color="#8C8C8C">Grup Departemen KASTRAD</font>
                                     </p>
@@ -694,7 +704,8 @@
                                                 dan ingatlah bahwa kamu masih bagian dari
                                                 <strong>Keluarga HIMSI FASILKOM UNSRI</strong>
                                                 .<br /><br /><br />
-                                                <b>##BerkolaborasiDalamAmbisi</b>
+                                                <b id="hastag">#RangkaiSinergiWujudkanTransformasi</b>
+                                                <strong id="hastag-space">#RangkaiSinergiWujudkan Transformasi</strong>
                                             </font>
                                         </p>
                                     </div>

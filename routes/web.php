@@ -23,18 +23,18 @@ Route::middleware('guest')->group(function () {
     return view('web/index', [
       'title' => 'OPREC BPH HIMSI 2024',
       'nav' => [
-      'active' => 'index',
+        'active' => 'index',
       ]
     ]);
   })->name('index');
-  
+
   Route::get('/faq', function () {
     return view('web/faq', [
-        'title' => 'FAQ OPREC BPH HIMSI 2024',
-        'nav' => [
-          'active' => 'registration',
-        ],
-      ]);
+      'title' => 'FAQ OPREC BPH HIMSI 2024',
+      'nav' => [
+        'active' => 'registration',
+      ],
+    ]);
   })->name('faq');
 
   Route::get('/login', [UserAuthController::class, 'login'])->name('login');
@@ -44,7 +44,7 @@ Route::middleware('guest')->group(function () {
   Route::post('/registration', [RegistrationController::class, 'validateNIM']);
 
   Route::get('/getkota/{province_id}', [RegistrationController::class, 'getKota']);
-  
+
   Route::get('/registration/form', [RegistrationController::class, 'form'])->name('formRegist');
   Route::post('/registration/form', [RegistrationController::class, 'storeForm'])->name('storeForm');
 });
@@ -61,7 +61,7 @@ Route::middleware('guest:admin')->group(function () {
 Route::middleware('auth:admin')->group(function () {
   Route::post('/bph/admin/logout', [AdminAuthController::class, 'logout'])->name('adminLogout');
   Route::get('/bph/admin/logout', [AdminAuthController::class, 'logout'])->name('adminLogout');
-  
+
   Route::get('/bph/admin/dashboard', [AdminController::class, 'dashboard'])->name('adminDashboard');
 
   Route::get('/bph/admin/dashboard/recruit', [AdminController::class, 'recruit'])->name('recruit');

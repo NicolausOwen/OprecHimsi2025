@@ -312,8 +312,8 @@
                             MEDINFO (Media dan Informasi) - Divisi HUMAS (Hubungan Masyarakat)</option>
                         <option {{ old('pil1') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi MULMED (Multimedia)</option>
-                        <option {{ old('pil1') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">DEPARTEMEN KASTRAD (Kajian
-                            Strategi dan Advokasi)</option>
+                        <option {{ old('pil1') === 'Kastrad_Kastrat' ? 'selected' : '' }} value="Kastrad_Kastrat">Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Kastrat (Kajian Strategi)</option>
+                        <option {{ old('pil1') === 'Kastrad_Adkesma' ? 'selected' : '' }} value="Kastrad_Adkesma">Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Adkesma (Advokasi Kesejahteraan Mahasiswa)</option>
                         <option {{ old('pil1') === 'Kestari' ? 'selected' : '' }} value="Kestari">DEPARTEMEN KESTARI
                             (Kesekretariatan)</option>
                         <option {{ old('pil1') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">DEPARTEMEN PMB
@@ -354,8 +354,8 @@
                             MEDINFO (Media dan Informasi) - Divisi HUMAS (Hubungan Masyarakat)</option>
                         <option {{ old('pil2') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi MULMED (Multimedia)</option>
-                        <option {{ old('pil2') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">DEPARTEMEN KASTRAD (Kajian
-                            Strategi dan Advokasi)</option>
+                        <option {{ old('pil2') === 'Kastrad_Kastrat' ? 'selected' : '' }} value="Kastrad_Kastrat">Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Kastrat (Kajian Strategi)</option>
+                        <option {{ old('pil2') === 'Kastrad_Adkesma' ? 'selected' : '' }} value="Kastrad_Adkesma">Departemen KASTRAD (Kajian Strategi dan Advokasi) - Divisi Adkesma (Advokasi Kesejahteraan Mahasiswa)</option>
                         <option {{ old('pil2') === 'Kestari' ? 'selected' : '' }} value="Kestari">DEPARTEMEN KESTARI
                             (Kesekretariatan)</option>
                         <option {{ old('pil2') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">DEPARTEMEN PMB
@@ -447,7 +447,7 @@
                     </div>
 
                     <div class="regis__box__file">
-
+                        <p><b>Maksimal Ukuran File 4MB<b/></p>
                         <label for="foto" class="field prepend-icon">Pilih File Pas Foto (Formal) &raquo;
                             <small><b>.jpg/.jpeg/.png</b></small></label><br><br>
                         <input type="file" name="foto" id="foto" class="desktop gui-input upload__box"
@@ -468,7 +468,6 @@
                         <input type="file" name="khs" id="khs" class="desktop gui-input upload__box"
                             accept="application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
                             placeholder="Pilih FIle KHS" required>
-
                     </div>
                     <br>
 

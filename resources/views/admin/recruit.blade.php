@@ -85,26 +85,28 @@
                                                     <div class="form-group">
                                                         <select id="lulus" name="lulus"
                                                             class="form-select regis__input form-control py-3" required>
-                                                            <option selected hidden disabled>Pilih Dinas/Divisi Lulus...
+                                                            <option selected hidden disabled>Pilih Departemen/Divisi Lulus...
                                                             </option>
-                                                            <option value="Bistra">Dinas BISTRA (Bisnis dan Kemitraan)
+                                                            <option value="Bistra">Departemen BISTRA (Bisnis dan Kemitraan)
                                                             </option>
-                                                            <option value="Medinfo_Humas">Dinas MEDINFO (Media dan
+                                                            <option value="Medinfo_Humas">Departemen MEDINFO (Media dan
                                                                 Informasi) - Divisi HUMAS (Hubungan Masyarakat)</option>
-                                                            <option value="Medinfo_Mulmed">Dinas MEDINFO (Media dan
+                                                            <option value="Medinfo_Mulmed">Departemen MEDINFO (Media dan
                                                                 Informasi) - Divisi MULMED (Multimedia)</option>
-                                                            <option value="Kastrad">Dinas KASTRAD (Kajian Strategi dan
-                                                                Advokasi)</option>
-                                                            <option value="Kestari">Dinas KESTARI (Kesekretariatan)</option>
-                                                            <option value="PMB_Seni">Dinas PMB (Pengembangan Minat Bakat) -
+                                                            <option value="Kastrad_Kastrat">Departemen KASTRAD (Kajian Strategi dan
+                                                                Advokasi) - Divisi Kastrat (Kajian Strategi) </option>
+                                                            <option value="Kastrad_Adkesma">Departemen KASTRAD (Kajian Strategi dan
+                                                                Advokasi) - Divisi Adkesma (Advokasi Kesejahteraan Mahasiswa)</option>
+                                                            <option value="Kestari">Departemen KESTARI (Kesekretariatan)</option>
+                                                            <option value="PMB_Seni">Departemen PMB (Pengembangan Minat Bakat) -
                                                                 Divisi Seni</option>
-                                                            <option value="PMB_Olahraga">Dinas PMB (Pengembangan Minat
+                                                            <option value="PMB_Olahraga">Departemen PMB (Pengembangan Minat
                                                                 Bakat) - Divisi Olahraga</option>
-                                                            <option value="PSDM">Dinas PSDM (Pengembangan Sumber Daya
+                                                            <option value="PSDM">Departemen PSDM (Pengembangan Sumber Daya
                                                                 Mahasiswa)</option>
-                                                            <option value="Ristek_Akademik">Dinas RISTEK (Riset dan
+                                                            <option value="Ristek_Akademik">Departemen RISTEK (Riset dan
                                                                 Teknologi) - Divisi Akademik</option>
-                                                            <option value="Ristek_PTI">Dinas RISTEK (Riset dan Teknologi) -
+                                                            <option value="Ristek_PTI">Departemen RISTEK (Riset dan Teknologi) -
                                                                 Divisi PTI (Pengembangan Teknologi Informasi)</option>
                                                         </select>
                                                     </div>
