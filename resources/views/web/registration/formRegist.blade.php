@@ -43,9 +43,9 @@
                     <div class="regis__box">
                         <i class='bx bxs-calendar regis__icon'></i>
                         <input type="date" name="tgl_lahir" placeholder="Tanggal Lahir : &nbsp"
-                            value="{{ old('tgl_lahir', date('d-m-Y')) }} }}" class="regis__input form-control"
+                            value="{{ old('tgl_lahir', date('Y-m-d')) }}" class="regis__input form-control"
                             title="Tanggal Lahir" min="2001-01-01" max="2006-12-31" required>
-                    </div>
+                    </div>                    
                     @error('tgl_lahir')
                         <div class="form-text text-danger">{{ $message }}</div>
                     @enderror
@@ -260,7 +260,7 @@
                                         <li>Mencari akun sosial media yang menyediakan info info akademik seperti
                                             beasiswa,lomba,webinar dll minimal 10.</li>
                                     </ul> --}}
-                                    <p><b>SS Dan Kumpulkan bukti :</b></p>
+                                    <p><b>SS Dan Kumpulkan bukti </b></p>
                                     <br>
                                     <hr />
                                     

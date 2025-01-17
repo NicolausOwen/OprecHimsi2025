@@ -254,7 +254,7 @@
 
                                         <p><b>SS Dan Kumpulkan bukti :</b></p>
                                         <i class="bx bx-link"></i>
-                                        <a href="https://drive.google.com/drive/folders/1f5CcyZKh_tNsPVdF1cBZMA9DZG5lDgkO?usp=drive_link"
+                                        <a href="https://drive.google.com/drive/folders/1SvMwU52OEbUy4XiczlO7kmyrVbbGQ1Fg"
                                             target="_blank">Link Pengumpulan Tugas</a>
 
                                         <br />
