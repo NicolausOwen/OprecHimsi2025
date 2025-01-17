@@ -300,7 +300,7 @@
                         </div>
                     </div>
 
-                    <a href="https://drive.google.com/drive/folders/1J-jQMiAEopo5yWrXQMihDza5MAwVXqME?usp=sharing"
+                    <a href="https://drive.google.com/file/d/1BxRYlM8VL7kSqju49E-eol9nd5g53POL/view"
                         class="regis__button text-white mb-3 mt-3" style="text-decoration: none" target="_blank">
                         CARI TAHU TENTANG HIMSI YUK!!</a>
 
