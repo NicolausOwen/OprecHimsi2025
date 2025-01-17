@@ -29,7 +29,7 @@
                                 </li>
                                 <li>
                                     Peserta diwajibkan untuk membuat tugas sesuai
-                                    dinas/divisi pilihannya (jika ada).
+                                    departemen/divisi pilihannya (jika ada).
                                 </li>
                                 <li>
                                     Peserta diwajibkan untuk memasang twibbon dan
@@ -63,10 +63,10 @@
                         <!-- Button trigger modal -->
                         <button type="button" class="regis__button text-white mb-3 mt-3" data-bs-toggle="modal"
                             data-bs-target="#tugas">
-                            LIHAT TUGAS DINAS/DIVISI
+                            LIHAT TUGAS DEPARTEMEN/DIVISI
                         </button>
 
-                        <a href="https://drive.google.com/drive/folders/1G8d9uqWtpsTm2yrUvYhIwY4vMyU89w6m?usp=sharing"
+                        <a href="https://drive.google.com/drive/folders/1W_AOoxIGMqXEIc1El_212TEgQ3W3INeN?usp=drive_link"
                             class="regis__button text-white mb-3 mt-3" style="text-decoration: none" target="_blank">
                             DOWNLOAD TWIBBON</a>
 
@@ -81,7 +81,7 @@
                                 <div class="modal-content container-md">
                                     <div class="modal-header">
                                         <h5 class="modal-title" id="tugas">
-                                            List Tugas Dinas/Divisi
+                                            List Tugas Departemen/Divisi
                                         </h5>
                                         <button type="button" class="btn-close" data-bs-dismiss="modal"
                                             aria-label="Close"></button>
@@ -100,35 +100,43 @@
                                             Mem-follow IG HIMSI UNSRI yaitu
                                             <a href="https://www.instagram.com/himsiunsri" target="_blank">@himsiunsri</a>.
                                         </p>
-
+                                        <br>
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                             BISTRA
                                         </h3>
                                         <p>Mem-follow IG BISTRA HIMSI UNSRI yaitu
                                             <a href="https://www.instagram.com/himsi.store" target="_blank">@himsi.store
                                             </a>.
                                         </p>
-                                        <p>
-                                            Buatkan contoh Business Model Canvas sederhana dari suatu perusahaan di
-                                            Indonesia!
-                                        </p>
+                                        <ul>
+                                            <li>
+                                                Buatlah Business Model Canvas dari suatu perusahaan yang ada di Indonesia!
+                                            </li>
+                                            <li>
+                                                Buat ide makanan manis, makanan asin, minuman dan merchandise masing masing 3! 
+                                            </li>
+                                        </ul>
 
-                                        <p>
-                                            <b>File di-upload ke folder GDrive yang
-                                                telah disediakan (link di bawah ini) dengan membuat folder baru
-                                                dengan format (Nama_Kelas).</b>
-                                        </p>
                                         <i class="bx bx-link"></i>
-                                        <a href="https://drive.google.com/drive/folders/18AuEOqKV0OOGGItEWDF8Pn-HlGu11aSD?usp=drive_links"
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-_QGTqasv7OvpRwg1fES3CXk2K-h66cuiJ-_3b1mtb8R7tg/viewform"
                                             target="_blank">Link Pengumpulan Tugas</a>
-
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN PSDM
+                                        </h3>
+                                        <p>Mengerjakan tes psikologi yang telah disediakan dengan penuh konsentrasi dan kejujuran!</p>
+
+                                        <i class="bx bx-link"></i>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmyGigESS8DoRYXBC2HoGpJ8oU626qDkq8MdUuAFJjBzJ0oQ/viewform?usp=header"
+                                            target="_blank">Link Pengerjaan Tugas</a>
+                                        <hr />
+
+                                        <h3 class="fs-5 fw-bolder">
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                             MEDINFO (DIVISI MULMED)
                                         </h3>
                                         <ul>
@@ -159,64 +167,65 @@
                                                 dengan format (Nama_Kelas).</b>
                                         </p>
                                         <i class="bx bx-link"></i>
-                                        <a href="https://drive.google.com/drive/folders/10HxrYS2drxsYfYTJ-RAwVBl5E9-0MQ8_?usp=drive_link"
+                                        <a href="https://drive.google.com/drive/folders/1RUs_xNHrIuCUoz3SwdDHRZbpOvX8G7QP?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
 
                                         <br />
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS
-                                            KESTARI
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN KASTRAD
                                         </h3>
-                                        <p>Membuat sebuah proposal dengan tema kegiatan webinar atau lomba.</p>
+                                        <p>Mem-follow IG KASTRAD HIMSI UNSRI yaitu
+                                            <a href="https://www.instagram.com/himsi.kastrad/" target="_blank">@himsi.kastrad
+                                            </a>.
+                                        </p>
+                                        <br>
+
+                                        <p><b>SS Dan Kumpulkan bukti :</b></p>
+                                        <i class="bx bx-link"></i>
+                                        <a href="https://drive.google.com/drive/folders/19LVU3h860ftYr2fXID3VTpemj4xArAfX"
+                                            target="_blank">Link Pengumpulan Tugas</a>
+                                        <hr />
+
+                                        <h3 class="fs-5 fw-bolder">
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN KESTARI
+                                        </h3>
+                                        <p>Peserta diminta untuk menyusun proposal sesuai dengan tema kegiatan yang telah ditentukan.</p>
                                         <ul>
                                             <li>
-                                                Proposal dapat dibuat menggunakan data yang tersedia atau data kalian
-                                                sendiri.
+                                                Peserta <span style="font-weight: 800;">DIWAJIBKAN</span> menyusun proposal yang sesuai dengan asset design yang telah disediakan.
                                             </li>
-                                            <li>Menggunakan template design yang tersedia akan lebih bagus (Opsional).</li>
                                             <li>
-                                                Data dan template yang tersedia, serta tata cara pembuatan proposal dapat
-                                                dilihat
-                                                <a href="https://drive.google.com/drive/folders/1ZJaQoTh49Pj0Z4SQ_gGClRl-eU271e2f?usp=sharing"
-                                                    target="_blank"> disini</a>
+                                                Rincian Tugas Dapat Dilihat Melalui Buku Panduan Yang Telah Disediakan : 
                                             </li>
-                                            <li>Proposal dibuat dalam bentuk/format PDF (.pdf).</li>
+                                            <a href="https://docs.google.com/document/d/1-i7Ns_7HqU5ab5SU-CdB5yr63z4tVgCEiODNwdPEHU0/edit?tab=t.0"
+                                                        target="_blank" style="font-weight: 800">Panduan Pelaksanaan Tugas Departemen Kestari</a>
+                                            <br>
                                         </ul>
-                                        <p>
-                                            <b>File di-upload ke folder GDrive yang
-                                                telah disediakan (link di bawah ini) dengan membuat folder baru
-                                                dengan format (Nama_Kelas).</b>
-                                        </p>
+                                        <p>Proposal dikumpulkan dalam format PDF (.pdf) melalui link pengumpulan tugas yang tersedia.</p>
+                                        
                                         <i class="bx bx-link"></i>
-                                        <a href="https://drive.google.com/drive/folders/1okGGqt1_GCy0oZRcGRCQLtTsAri8y83I?usp=drive_link"
+                                        <a href="https://drive.google.com/drive/folders/1OzFIH1k5033_BOCXAvlamaOdbWm0QwsN?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
-
                                         <br />
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS PMB
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN PMB
                                             (DIVISI OLAHRAGA DAN SENI)
                                         </h3>
                                         <p>
                                             Mem-follow IG PMB HIMSI UNSRI yaitu
                                             <a href="https://www.instagram.com/himsi.pmb" target="_blank">@himsi.pmb</a>.
                                         </p>
-
-                                        <p><b>Khusus PMB Seni :</b></p>
+                                        <p>Mengerjakan Tugas Sesuai Dengan Arahan yang Diberikan Dalam Buku Panduan Pelaksanaan Tugas Departemen PMB:</p>
                                         <ul>
-                                            <li>
-                                                Wajib mengumpulkan video berupa penampilan seni minimal durasi 2 menit
-                                                (contoh : menyanyi, menari, melukis, dll).
-                                            </li>
+                                            
+                                                <a href="https://docs.google.com/document/d/1p8vsmQjN0sJFn_TcRq28QxUR6IBpnSI917ubYwBT7bE/edit?usp=sharing"
+                                                        target="_blank" style="font-weight: 800">Panduan Pelaksanaan Tugas Departemen PMB</a>
                                         </ul>
-                                        <p>
-                                            <b>File di-upload ke folder GDrive yang
-                                                telah disediakan (link di bawah ini) dengan membuat folder baru
-                                                dengan format (Nama_Kelas).</b>
-                                        </p>
+
                                         <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1f5CcyZKh_tNsPVdF1cBZMA9DZG5lDgkO?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -225,29 +234,35 @@
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS
-                                            RISTEK (DIVISI AKADEMIK)
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN
+                                        RISTEK (DIVISI AKADEMIK)
                                         </h3>
                                         <p>Mem-follow IG RISTEK HIMSI UNSRI yaitu
                                             <a href="https://www.instagram.com/himsi.ristek" target="_blank">@himsi.ristek
                                             </a>.
                                         </p>
-                                        <p>
+                                        {{-- <p>
                                             Tugas akan dikumpulkan pada
-                                            saat melakukan wawancara dalam bentuk hardcopy yang berisikan data sebagai
-                                            berikut :
+                                            saat melakukan wawancara dalam bentuk hardcopy yang berisikan data sebagai berikut :
                                         </p>
                                         <ul>
-                                            <li>Mencari kontak dosen Sistem Informasi minimal 10 dan kontak admin jurusan
-                                                Sistem Informasi.</li>
+                                            <li>Mencari kontak dosen Sistem Informasi minimal 10 dan kontak admin jurusan Sistem
+                                                Informasi.</li>
                                             <li>Mencari akun sosial media yang menyediakan info info akademik seperti
                                                 beasiswa,lomba,webinar dll minimal 10.</li>
-                                        </ul>
+                                        </ul> --}}
+
+                                        <p><b>SS Dan Kumpulkan bukti :</b></p>
+                                        <i class="bx bx-link"></i>
+                                        <a href="https://drive.google.com/drive/folders/1f5CcyZKh_tNsPVdF1cBZMA9DZG5lDgkO?usp=drive_link"
+                                            target="_blank">Link Pengumpulan Tugas</a>
+
+                                        <br />
 
                                         <hr />
 
                                         <h3 class="fs-5 fw-bolder">
-                                            <i class="bx bx-paper-plane"></i> DINAS
+                                            <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                             RISTEK (DIVISI PTI)
                                         </h3>
                                         <p>
@@ -270,13 +285,9 @@
                                                 Bentuk/format file yang akan di-upload adalah file kompres (.zip/.rar).
                                             </li>
                                         </ul>
-                                        <p>
-                                            <b>File di-upload ke folder GDrive yang
-                                                telah disediakan (link di bawah ini) dengan membuat folder baru
-                                                dengan format (Nama_Kelas).</b>
-                                        </p>
+
                                         <i class="bx bx-link"></i>
-                                        <a href="https://drive.google.com/drive/folders/1bUdk9e3TLXLE_QqdJaSWSQg7MfF7XG56?usp=drive_link"
+                                        <a href="https://drive.google.com/drive/folders/1cnReJTVoHhlwbHHo19emS-mdS9kHx55n?usp=sharing"
                                             target="_blank">Link Pengumpulan Tugas</a>
                                     </div>
 
@@ -290,7 +301,7 @@
                         </div>
                         <!-- End Modal -->
 
-                        <!-- Modal -->
+                        <!-- Admin Modal -->
                         <div class="modal fade" id="admin" tabindex="-1" aria-labelledby="admin" aria-hidden="true">
                             <div class="modal-dialog">
                                 <div class="modal-content container-md">
@@ -308,20 +319,19 @@
                                     font-size: 0.938rem !important;
                                 ">
                                         <center>
+                                        <p>
+                                            Klik atau scan barcode di bawah ini untuk menghubungi via Line
+                                        </p>
+                                        <a href="https://line.me/ti/p/a4hGo3O5OI" target="_blank">
+                                            <img border="0" src="{{ url('img/admin_barcode.jpg') }}" width="170"
+                                                height="170" /></a>
+
+                                        <hr>
+                                        <a href="https://wa.me/6281279730993" target="_blank">
                                             <p>
-                                                Klik atau scan barcode di bawah ini untuk menghubungi Zahra via Line
+                                                Hubungi via WhatsApp
                                             </p>
-                                            <a href="https://line.me/ti/p/kj-XbWr6yh" target="_blank">
-                                                <img border="0" src="{{ url('img/admin_barcode.jpg') }}"
-                                                    width="170" height="170" /></a>
-
-                                            <hr>
-
-                                            <a href="https://wa.me/6281272623991" target="_blank">
-                                                <p>
-                                                    Hubungi Naila via WhatsApp
-                                                </p>
-                                            </a>
+                                        </a>
                                         </center>
                                     </div>
 
@@ -335,7 +345,7 @@
                         </div>
                         <!-- End Modal -->
 
-                        <!-- Modal -->
+                        <!-- BPH Group Modal -->
                         <div class="modal fade" id="grupLine" tabindex="-1" aria-labelledby="grupLine"
                             aria-hidden="true">
                             <div class="modal-dialog">
@@ -358,7 +368,7 @@
                                                 Klik atau scan barcode di bawah ini buat
                                                 join ke grup ya...
                                             </p>
-                                            <a href="https://line.me/R/ti/g/kLYxUOGkyu" target="_blank">
+                                            <a href="https://line.me/ti/g/Tgfu-ZKqFJ" target="_blank">
                                                 <img border="0" src="{{ url('img/barcode.jpg') }}" width="170"
                                                     height="170" /></a>
                                         </center>
@@ -379,7 +389,7 @@
                                 <!-- <button type="submit" class="button btn-primary block pushed expand"> LANJUTKAN </button> -->
                                 <p style="color: black">
                                     Created by
-                                    <a href="#"> Dinas RISTEK - Divisi PTI</a>
+                                    <a href="#"> Departemen RISTEK - Divisi PTI</a>
                                 </p>
                             </div>
                         </center>
@@ -388,6 +398,9 @@
             </div>
         </div>
     </div>
+
+
+    {{-- PENGUMUMAN --}}
 
     <div id="pengumuman">
         @if (Auth::user()->lulus)
@@ -435,7 +448,7 @@
                             </div>
 
                             <br />
-                            <div class="tagline"><span> Dinas/Divisi </span></div>
+                            <div class="tagline"><span> Departemen/Divisi </span></div>
                             <br />
 
                             @if (Auth::user()->lulus === 'Kastrad')
@@ -443,7 +456,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas KASTRAD (Kajian Strategi dan Advokasi)
+                                        Departemen KASTRAD (Kajian Strategi dan Advokasi)
                                     </p>
                                 </div>
                                 <br />
@@ -452,7 +465,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas PSDM (Pengembangan Sumber Daya Mahasiswa)
+                                        Departemen PSDM (Pengembangan Sumber Daya Mahasiswa)
                                     </p>
                                 </div>
                                 <br />
@@ -461,7 +474,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas RISTEK (Riset dan Teknologi) - Divisi PTI
+                                        Departemen RISTEK (Riset dan Teknologi) - Divisi PTI
                                         (Pengembangan Teknologi Informasi)
                                     </p>
                                 </div>
@@ -471,7 +484,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas RISTEK (Riset dan Teknologi) - Divisi Akademik
+                                        Departemen RISTEK (Riset dan Teknologi) - Divisi Akademik
                                     </p>
                                 </div>
                                 <br />
@@ -480,7 +493,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas BISTRA (Bisnis dan Kemitraan)
+                                        Departemen BISTRA (Bisnis dan Kemitraan)
                                     </p>
                                 </div>
                                 <br />
@@ -489,7 +502,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas KESTARI (Kesekretariatan)
+                                        Departemen KESTARI (Kesekretariatan)
                                     </p>
                                 </div>
                                 <br />
@@ -498,7 +511,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas PMB (Pengembangan Minat Bakat) - Divisi Seni
+                                        Departemen PMB (Pengembangan Minat Bakat) - Divisi Seni
                                     </p>
                                 </div>
                                 <br />
@@ -507,7 +520,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas PMB (Pengembangan Minat Bakat) - Divisi Olahraga
+                                        Departemen PMB (Pengembangan Minat Bakat) - Divisi Olahraga
                                     </p>
                                 </div>
                                 <br />
@@ -516,7 +529,7 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas MEDINFO (Media dan Informasi) - Divisi HUMAS
+                                        Departemen MEDINFO (Media dan Informasi) - Divisi HUMAS
                                         (Hubungan Masyarakat)
                                     </p>
                                 </div>
@@ -526,16 +539,16 @@
                                     <i class="bx bxs-group regis__icon"></i>
                                     <p name="lulus" class="regis__input"
                                         style="text-transform: capitalize; font-weight:bold !important; margin:0" readonly>
-                                        Dinas MEDINFO (Media dan Informasi) - Divisi MULMED
+                                        Departemen MEDINFO (Media dan Informasi) - Divisi MULMED
                                         (Multimedia)
                                     </p>
                                 </div>
                                 <br />
                             @endif
 
-                            <!-- GRUP DINAS/DIVISI -->
+                            <!-- GRUP DEPARTEMEN/DIVISI -->
                             <div class="alert alert-primary text-center">
-                                Silakan join ke grup dinas masing-masing yaa!
+                                Silakan join ke grup departemen masing-masing yaa!
                             </div>
 
                             <br />
@@ -546,63 +559,63 @@
                             <center>
                                 @if (Auth::user()->lulus === 'Kastrad')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas KASTRAD</font>
+                                        <font color="#8C8C8C">Grup Departemen KASTRAD</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/w0crQKqe87">
+                                    <a href="https://line.me/R/ti/g/w-jT7j3BW5">
                                         <img border="0" src="{{ url('img/barcode/kastrad.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'PSDM')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas PSDM</font>
+                                        <font color="#8C8C8C">Grup Departemen PSDM</font>
                                     </p>
-                                    <a href="https://line.me/ti/g/MNFQl-BKoT">
+                                    <a href="https://line.me/ti/g/CMs_chDBLP">
                                         <img border="0" src="{{ url('img/barcode/psdm.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'Ristek_PTI' || Auth::user()->lulus === 'Ristek_Akademik')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas RISTEK</font>
+                                        <font color="#8C8C8C">Grup Departemen RISTEK</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/i87bMYCXcs">
+                                    <a href="https://line.me/R/ti/g/hHdn3XLbUK">
                                         <img border="0" src="{{ url('img/barcode/ristek.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'Bistra')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas BISTRA</font>
+                                        <font color="#8C8C8C">Grup Departemen BISTRA</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/imEAypbzOm">
+                                    <a href="https://line.me/ti/g/ZNUQb4k27s">
                                         <img border="0" src="{{ url('img/barcode/bistra.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'Kestari')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas KESTARI</font>
+                                        <font color="#8C8C8C">Grup Departemen KESTARI</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/HPmmTKQevS">
+                                    <a href="https://line.me/R/ti/g/FzQhE4ZyM7">
                                         <img border="0" src="{{ url('img/barcode/kestari.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'PMB_Seni' || Auth::user()->lulus === 'PMB_Olahraga')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas PMB</font>
+                                        <font color="#8C8C8C">Grup Departemen PMB</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/hN0vriZEKB">
+                                    <a href="https://line.me/ti/g/G_6DgAV4BZ">
                                         <img border="0" src="{{ url('img/barcode/pmb.jpg') }}" width="170"
                                             height="170" />
                                     </a>
                                     <br />
                                 @elseif (Auth::user()->lulus === 'Medinfo_Humas' || Auth::user()->lulus === 'Medinfo_Mulmed')
                                     <p>
-                                        <font color="#8C8C8C">Grup Dinas MEDINFO</font>
+                                        <font color="#8C8C8C">Grup Departemen MEDINFO</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/7Eac7Qn3uf">
+                                    <a href="https://line.me/R/ti/g/_DmD2EAmeJ">
                                         <img border="0" src="{{ url('img/barcode/medinfo.jpg') }}" width="170"
                                             height="170" />
                                     </a>
@@ -610,9 +623,9 @@
                                 @endif
                                 <center>
                                     <p>
-                                        <font color="#8C8C8C">Grup BPH 2023/2025</font>
+                                        <font color="#8C8C8C">Grup BPH 2024/2025</font>
                                     </p>
-                                    <a href="https://line.me/R/ti/g/Wa8KnQj7eI">
+                                    <a href="https://line.me/ti/g/kK2tg_3EHz">
                                         <img border="0" src="{{ url('img/barcode/BPH.jpg') }}" width="170"
                                             height="170" />
                                     </a>
@@ -628,7 +641,7 @@
                                 <div class="form-footer" style="margin-top: 4rem">
                                     <p style="color: black">
                                         Created by
-                                        <a href="#"> Dinas RISTEK - Divisi PTI</a>
+                                        <a href="#"> Departemen RISTEK - Divisi PTI</a>
                                     </p>
                                 </div>
                             </center>
@@ -645,7 +658,7 @@
                                 style="margin: auto; display: block" /><br /><br />
 
                             <h1 class="regis__title fw-bold">
-                                PENGUMUMAN OPREC BPH HIMSI UNSRI 2023
+                                PENGUMUMAN OPREC BPH HIMSI UNSRI 2025
                             </h1>
                             <hr />
 
@@ -691,7 +704,7 @@
                                     <div class="form-footer" style="margin-top: 4rem">
                                         <p style="color: black">
                                             Created by
-                                            <a href="#"> Dinas RISTEK - Divisi PTI</a>
+                                            <a href="#"> Departemen RISTEK - Divisi PTI</a>
                                         </p>
                                     </div>
                                 </center>

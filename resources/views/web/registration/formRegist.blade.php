@@ -99,12 +99,12 @@
                     </select>
 
                     <br>
-                    <div class="tagline"><span> TUGAS DINAS/DIVISI </span></div>
+                    <div class="tagline"><span> TUGAS DEPARTEMEN/DIVISI </span></div>
                     <br>
 
                     <button type="button" class="regis__button text-white mb-3 mt-3" data-bs-toggle="modal"
                         data-bs-target="#tugas">
-                        LIHAT TUGAS DINAS/DIVISI
+                        LIHAT TUGAS DEPARTEMEN/DIVISI
                     </button>
 
                     <!-- Modal -->
@@ -113,7 +113,7 @@
                             <div class="modal-content container-md">
                                 <div class="modal-header">
                                     <h5 class="modal-title" id="tugas">
-                                        List Tugas Dinas/Divisi
+                                        List Tugas Departemen/Divisi
                                     </h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal"
                                         aria-label="Close"></button>
@@ -132,91 +132,125 @@
                                         Mem-follow IG HIMSI UNSRI yaitu
                                         <a href="https://www.instagram.com/himsiunsri" target="_blank">@himsiunsri</a>.
                                     </p>
-
+                                    <br>
                                     <hr />
 
                                     <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                         BISTRA
                                     </h3>
-                                    <p>Mem-follow IG BISTRA HIMSI UNSRI yaitu
-                                        <a href="https://www.instagram.com/himsi.store" target="_blank">@himsi.store
-                                        </a>.
-                                    </p>
+
                                     <p>
-                                        Buatkan contoh Business Model Canvas sederhana dari suatu perusahaan di Indonesia!
+                                        Follow Instagram BISTRA
+                                                <a href="https://www.instagram.com/himsi.store/" target="_blank">@himsi.store</a>.
                                     </p>
+                                    <ul>
+                                        <li>
+                                            Buatlah Business Model Canvas dari suatu perusahaan yang ada di Indonesia!
+                                        </li>
+                                        <li>
+                                            Buat ide makanan manis, makanan asin, minuman dan merchandise masing masing 3! 
+                                        </li>
+                                    </ul>
+
                                     <br>
                                     <hr />
+
                                     <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN PSDM
+                                    </h3>
+                                    <p>Mengerjakan tes psikologi yang telah disediakan dengan penuh konsentrasi dan kejujuran</p>
+
+                                    <br>
+                                    <hr />
+
+                                    <h3 class="fs-5 fw-bolder">
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                         MEDINFO (DIVISI MULMED)
                                     </h3>
+                                    Membuat Design Poster ukuran A4, serta mengirimkan portofolio design yang pernah dibuat.
                                     <ul>
-                                        <li>Mengirimkan 1 video biasa/ video animasi terbaik yang pernah dibuat</li>
-                                        <li>Mengumpulkan 1 desain terbaik yang pernah dibuat.</li>
-                                        <li>WAJIB : Mengumpulkan 1 desain poster A4 terbaru dengan tema (pilih salah satu):
+                                        <br>
+                                        <li><span style="font-weight: 800;">Opsional :</span> mengirimkan 1 video biasa / video animasi terbaik yang pernah dibuat.</li>
+                                        <li>Design poster dibuat dengan memilih salah satu tema berikut:
                                             <ul>
-                                                <li>“Teknologi”</li>
-                                                <li>"Budaya Indonesia"</li>
+                                                <li>“Teknologi di era society 5.0”</li>
+                                                <li>"Nusantara"</li>
                                             </ul>
-                                            Dan dengan pilihan konsep desain (pilih salah satu):
+                                        </li>
+                                        <li>Design Poster juga wajib dibuat menggunakan salah satu konsep desain berikut:
                                             <ul>
 
-                                                <li>Neon/Futuristic</li>
-                                                <li>Abstract Geometric/Abstract Gradient </li>
+                                                <li>Glassmorphism/Abstract Gradients</li>
                                                 <li>Retro/Vintage</li>
+                                                <li>Futuristic</li>
                                             </ul>
                                         </li>
+                                        <br>
+                                        File di-upload ke folder GDrive yang telah disediakan, dengan membuat folder baru dengan format (Nama_Kelas).
                                     </ul>
+
                                     <br>
-                                    <hr>
-                                    <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS KESTARI
-                                    </h3>
-                                    <p>Membuat sebuah proposal dengan tema kegiatan webinar atau lomba.</p>
-                                    <ul>
-                                        <li>
-                                            Proposal dapat dibuat menggunakan data yang tersedia atau data kalian
-                                            sendiri.
-                                        </li>
-                                        <li>Menggunakan template design yang tersedia akan lebih bagus (Opsional).</li>
-                                        <li>
-                                            Data dan template yang tersedia, serta tata cara pembuatan proposal dapat
-                                            dilihat
-                                            <a href="https://drive.google.com/drive/folders/1ZJaQoTh49Pj0Z4SQ_gGClRl-eU271e2f?usp=sharing"
-                                                target="_blank"> disini</a>
-                                        </li>
-                                        <li>Proposal dibuat dalam bentuk/format PDF (.pdf).</li>
-                                    </ul>
-                                    <br />
                                     <hr />
                                     <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS PMB
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN KASTRAD
+                                    </h3>
+                                    <p>Mem-follow IG KASTRAD HIMSI UNSRI yaitu
+                                        <a href="https://www.instagram.com/himsi.kastrad/" target="_blank">@himsi.kastrad
+                                        </a>.
+                                    </p>
+
+                                    <p><b>SS Dan Kumpulkan bukti</b></p>
+                                    <br>
+                                    <hr />
+                                    
+                                    <h3 class="fs-5 fw-bolder">
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN KESTARI
+                                    </h3>
+                                    <p>Peserta diminta untuk menyusun proposal sesuai dengan tema kegiatan yang telah ditentukan.</p>
+                                    <ul>
+                                        <li>
+                                            Peserta <span style="font-weight: 800;">DIWAJIBKAN</span> menyusun proposal yang sesuai dengan asset design yang telah disediakan.
+                                        </li>
+                                        <li>
+                                            Rincian Tugas Dapat Dilihat Melalui Buku Panduan Yang Telah Disediakan : 
+                                        </li>
+                                        <a href="https://docs.google.com/document/d/1-i7Ns_7HqU5ab5SU-CdB5yr63z4tVgCEiODNwdPEHU0/edit?tab=t.0"
+                                                    target="_blank" style="font-weight: 800">Panduan Pelaksanaan Tugas Departemen Kestari</a>
+                                        <br>
+                                    </ul>
+                                    <p>Proposal dikumpulkan dalam format PDF (.pdf) melalui link pengumpulan tugas yang tersedia.</p>
+                                    
+                                    <br />
+                                    <hr />
+                                    
+                                    <h3 class="fs-5 fw-bolder">
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN PMB
                                         (DIVISI OLAHRAGA DAN SENI)
                                     </h3>
                                     <p>
                                         Mem-follow IG PMB HIMSI UNSRI yaitu
                                         <a href="https://www.instagram.com/himsi.pmb" target="_blank">@himsi.pmb</a>.
                                     </p>
-                                    <p><b>Khusus PMB Seni :</b></p>
+                                    <p>Mengerjakan Tugas Sesuai Dengan Arahan yang Diberikan Dalam Buku Panduan Pelaksanaan Tugas Departemen PMB:</p>
                                     <ul>
-                                        <li>
-                                            Wajib mengumpulkan video berupa penampilan seni minimal durasi 2 menit (contoh :
-                                            menyanyi, menari, melukis, dll).
-                                        </li>
+                                        
+                                            <a href="https://docs.google.com/document/d/1p8vsmQjN0sJFn_TcRq28QxUR6IBpnSI917ubYwBT7bE/edit?usp=sharing"
+                                                    target="_blank" style="font-weight: 800">Panduan Pelaksanaan Tugas Departemen PMB</a>
                                     </ul>
+
                                     <br />
                                     <hr />
+
                                     <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                         RISTEK (DIVISI AKADEMIK)
                                     </h3>
                                     <p>Mem-follow IG RISTEK HIMSI UNSRI yaitu
                                         <a href="https://www.instagram.com/himsi.ristek" target="_blank">@himsi.ristek
                                         </a>.
                                     </p>
-                                    <p>
+                                    {{-- <p>
                                         Tugas akan dikumpulkan pada
                                         saat melakukan wawancara dalam bentuk hardcopy yang berisikan data sebagai berikut :
                                     </p>
@@ -225,11 +259,13 @@
                                             Informasi.</li>
                                         <li>Mencari akun sosial media yang menyediakan info info akademik seperti
                                             beasiswa,lomba,webinar dll minimal 10.</li>
-                                    </ul>
+                                    </ul> --}}
+                                    <p><b>SS Dan Kumpulkan bukti :</b></p>
                                     <br>
                                     <hr />
+                                    
                                     <h3 class="fs-5 fw-bolder">
-                                        <i class="bx bx-paper-plane"></i> DINAS
+                                        <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                         RISTEK (DIVISI PTI)
                                     </h3>
                                     <p>
@@ -265,30 +301,30 @@
                     <!-- End Modal -->
 
                     <br>
-                    <div class="tagline"><span> PILIHAN DINAS/DIVISI PERTAMA </span></div>
+                    <div class="tagline"><span> PILIHAN DEPARTEMEN/DIVISI PERTAMA </span></div>
                     <br>
 
                     <select id="pil1" name="pil1" class="form-select regis__input form-control py-3" required>
-                        <option value="" selected disabled hidden>Pilih Dinas/Divisi Pertama...</option>
-                        <option {{ old('pil1') === 'Bistra' ? 'selected' : '' }} value="Bistra">Dinas BISTRA (Bisnis dan
+                        <option value="" selected disabled hidden>Pilih Departemen/Divisi Pertama...</option>
+                        <option {{ old('pil1') === 'Bistra' ? 'selected' : '' }} value="Bistra">DEPARTEMEN BISTRA (Bisnis dan
                             Kemitraan)</option>
-                        <option {{ old('pil1') === 'Medinfo_Humas' ? 'selected' : '' }} value="Medinfo_Humas">Dinas
+                        <option {{ old('pil1') === 'Medinfo_Humas' ? 'selected' : '' }} value="Medinfo_Humas">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi HUMAS (Hubungan Masyarakat)</option>
-                        <option {{ old('pil1') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">Dinas
+                        <option {{ old('pil1') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi MULMED (Multimedia)</option>
-                        <option {{ old('pil1') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">Dinas KASTRAD (Kajian
+                        <option {{ old('pil1') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">DEPARTEMEN KASTRAD (Kajian
                             Strategi dan Advokasi)</option>
-                        <option {{ old('pil1') === 'Kestari' ? 'selected' : '' }} value="Kestari">Dinas KESTARI
+                        <option {{ old('pil1') === 'Kestari' ? 'selected' : '' }} value="Kestari">DEPARTEMEN KESTARI
                             (Kesekretariatan)</option>
-                        <option {{ old('pil1') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">Dinas PMB
+                        <option {{ old('pil1') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">DEPARTEMEN PMB
                             (Pengembangan Minat Bakat) - Divisi Seni</option>
-                        <option {{ old('pil1') === 'PMB_Olahraga' ? 'selected' : '' }} value="PMB_Olahraga">Dinas PMB
+                        <option {{ old('pil1') === 'PMB_Olahraga' ? 'selected' : '' }} value="PMB_Olahraga">DEPARTEMEN PMB
                             (Pengembangan Minat Bakat) - Divisi Olahraga</option>
-                        <option {{ old('pil1') === 'PSDM' ? 'selected' : '' }} value="PSDM">Dinas PSDM (Pengembangan
+                        <option {{ old('pil1') === 'PSDM' ? 'selected' : '' }} value="PSDM">DEPARTEMEN PSDM (Pengembangan
                             Sumber Daya Mahasiswa)</option>
-                        <option {{ old('pil1') === 'Ristek_Akademik' ? 'selected' : '' }} value="Ristek_Akademik">Dinas
+                        <option {{ old('pil1') === 'Ristek_Akademik' ? 'selected' : '' }} value="Ristek_Akademik">DEPARTEMEN
                             RISTEK (Riset dan Teknologi) - Divisi Akademik</option>
-                        <option {{ old('pil1') === 'Ristek_PTI' ? 'selected' : '' }} value="Ristek_PTI">Dinas RISTEK
+                        <option {{ old('pil1') === 'Ristek_PTI' ? 'selected' : '' }} value="Ristek_PTI">DEPARTEMEN RISTEK
                             (Riset dan Teknologi) - Divisi PTI (Pengembangan Teknologi Informasi)</option>
                     </select>
 
@@ -297,40 +333,40 @@
                             <textarea class="gui-textarea form-control pt-3" id="alasan1" name="alasan1" placeholder="Alasan" cols="54"
                                 rows="6" style="border: none; outline: none; padding: 1rem; border-radius: .5rem;" required>{{ old('alasan1') }}</textarea>
                             <div class="alert alert-dark text-center" role="alert">
-                                Tulis Alasan Kamu Memilih Dinas/Divisi Ini!
+                                Tulis Alasan Kamu Memilih Departemen/Divisi Ini!
                             </div>
                         </label>
                     </div>
 
                     <br>
 
-                    <div class="tagline"><span> PILIHAN DINAS/DIVISI KEDUA </span></div><br><br>
+                    <div class="tagline"><span> PILIHAN DEPARTEMEN/DIVISI KEDUA </span></div><br><br>
 
                     <div class="alert alert-danger text-center" role="alert">
-                        Kamu diwajibkan memilih 2 dinas/divisi!
+                        Kamu diwajibkan memilih 2 Departemen/divisi!
                     </div>
 
                     <select id="pil2" name="pil2" class="form-select regis__input form-control py-3" required>
-                        <option value="" selected disabled hidden>Pilih Dinas/Divisi Pertama...</option>
-                        <option {{ old('pil2') === 'Bistra' ? 'selected' : '' }} value="Bistra">Dinas BISTRA (Bisnis dan
+                        <option value="" selected disabled hidden>Pilih Departemen/Divisi Pertama...</option>
+                        <option {{ old('pil2') === 'Bistra' ? 'selected' : '' }} value="Bistra">DEPARTEMEN BISTRA (Bisnis dan
                             Kemitraan)</option>
-                        <option {{ old('pil2') === 'Medinfo_Humas' ? 'selected' : '' }} value="Medinfo_Humas">Dinas
+                        <option {{ old('pil2') === 'Medinfo_Humas' ? 'selected' : '' }} value="Medinfo_Humas">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi HUMAS (Hubungan Masyarakat)</option>
-                        <option {{ old('pil2') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">Dinas
+                        <option {{ old('pil2') === 'Medinfo_Mulmed' ? 'selected' : '' }} value="Medinfo_Mulmed">DEPARTEMEN
                             MEDINFO (Media dan Informasi) - Divisi MULMED (Multimedia)</option>
-                        <option {{ old('pil2') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">Dinas KASTRAD (Kajian
+                        <option {{ old('pil2') === 'Kastrad' ? 'selected' : '' }} value="Kastrad">DEPARTEMEN KASTRAD (Kajian
                             Strategi dan Advokasi)</option>
-                        <option {{ old('pil2') === 'Kestari' ? 'selected' : '' }} value="Kestari">Dinas KESTARI
+                        <option {{ old('pil2') === 'Kestari' ? 'selected' : '' }} value="Kestari">DEPARTEMEN KESTARI
                             (Kesekretariatan)</option>
-                        <option {{ old('pil2') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">Dinas PMB
+                        <option {{ old('pil2') === 'PMB_Seni' ? 'selected' : '' }} value="PMB_Seni">DEPARTEMEN PMB
                             (Pengembangan Minat Bakat) - Divisi Seni</option>
-                        <option {{ old('pil2') === 'PMB_Olahraga' ? 'selected' : '' }} value="PMB_Olahraga">Dinas PMB
+                        <option {{ old('pil2') === 'PMB_Olahraga' ? 'selected' : '' }} value="PMB_Olahraga">DEPARTEMEN PMB
                             (Pengembangan Minat Bakat) - Divisi Olahraga</option>
-                        <option {{ old('pil2') === 'PSDM' ? 'selected' : '' }} value="PSDM">Dinas PSDM (Pengembangan
+                        <option {{ old('pil2') === 'PSDM' ? 'selected' : '' }} value="PSDM">DEPARTEMEN PSDM (Pengembangan
                             Sumber Daya Mahasiswa)</option>
-                        <option {{ old('pil2') === 'Ristek_Akademik' ? 'selected' : '' }} value="Ristek_Akademik">Dinas
+                        <option {{ old('pil2') === 'Ristek_Akademik' ? 'selected' : '' }} value="Ristek_Akademik">DEPARTEMEN
                             RISTEK (Riset dan Teknologi) - Divisi Akademik</option>
-                        <option {{ old('pil2') === 'Ristek_PTI' ? 'selected' : '' }} value="Ristek_PTI">Dinas RISTEK
+                        <option {{ old('pil2') === 'Ristek_PTI' ? 'selected' : '' }} value="Ristek_PTI">DEPARTEMEN RISTEK
                             (Riset dan Teknologi) - Divisi PTI (Pengembangan Teknologi Informasi)</option>
                     </select>
 
@@ -339,7 +375,7 @@
                             <textarea class="gui-textarea form-control pt-3" id="alasan2" name="alasan2" placeholder="Alasan" cols="54"
                                 rows="6" style="border: none; outline: none; padding: 1rem; border-radius: .5rem;" required>{{ old('alasan2') }}</textarea>
                             <div class="alert alert-dark text-center" role="alert">
-                                Tulis Alasan Kamu Memilih Dinas/Divisi Ini!
+                                Tulis Alasan Kamu Memilih Departemen/Divisi Ini!
                             </div>
                         </label>
                     </div>
@@ -385,9 +421,9 @@
                     <select id="wawancara" name="wawancara" class="form-select regis__input form-control py-3" required>
                         <option value="" selected disabled hidden>Pilih Jadwal dan Lokasi Wawancara...</option>
                         <option {{ old('wawancara') === 'Indralaya' ? 'selected' : '' }} value="Indralaya">Indralaya.
-                            Jumat, 26 Januari 2025</option>
+                            Jumat, 31 Januari 2025</option>
                         <option {{ old('wawancara') === 'Palembang' ? 'selected' : '' }} value="Palembang">Palembang
-                            (Bukit). Sabtu, 27 Januari 2025</option>
+                            (Bukit). Sabtu, 1 Febuari 2025</option>
                     </select>
 
                     <br>
@@ -398,8 +434,9 @@
                         <p>
                             Kamu wajib mengupload: <br>
                             <i class='bx bx-paperclip'></i>&nbsp;&nbsp;Pas Foto (Formal)<br>
-                            <i class='bx bx-paperclip'></i>&nbsp;&nbsp;Bukti (Screenshot) Follow Instagram HIMSI (<a
-                                href="https://www.instagram.com/himsiunsri" target="_blank">@himsiunsri</a>)<br>
+                            <i class='bx bx-paperclip'></i>&nbsp;&nbsp;Bukti (Screenshot) Follow Instagram & TikTok HIMSI (<a
+                                href="https://www.instagram.com/himsiunsri" target="_blank">Instagram</a> & <a
+                                href="https://www.tiktok.com/@himsiunsri?_t=ZS-8t8fHjiIToe&_r=1" target="_blank">Tiktok</a>)<br>
                             <i class='bx bx-paperclip'></i>&nbsp;&nbsp;KHS (Kartu Hasil Studi) Semester Kemarin<br>
                             <br>
                             File Pas Foto dan Bukti (Screenshot) ber-ekstensi <strong>".jpg/.jpeg/.png"</strong>. <br>
@@ -462,7 +499,7 @@
                     <center>
                         <div class="form-footer" style="margin-top: 4rem;">
                             <!--<button type="submit" class="button btn-primary block pushed expand"> LANJUTKAN </button> -->
-                            <p style="color: black">Created by <a href="#"> Dinas RISTEK - Divisi PTI</a></p>
+                            <p style="color: black">Created by <a href="#"> DEPARTEMEN RISTEK - Divisi PTI</a></p>
                         </div>
                     </center>
 

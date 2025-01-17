@@ -82,11 +82,6 @@
         backdrop-filter: blur(10px);
         z-index: -1;
     }
-
-    #wrapper {
-        position: relative;
-        z-index: 2;
-    }
 </style>
 
 <body id="homepage" class="homepage">

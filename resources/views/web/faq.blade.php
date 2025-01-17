@@ -40,7 +40,7 @@
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Saat mendaftar bolehkah hanya memilih 1 dinas
+                                    Saat mendaftar bolehkah hanya memilih 1 departemen
                                     saja?
                                 </button>
                             </h2>
@@ -48,9 +48,9 @@
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <strong>Saat mendaftar bolehkah hanya memilih 1
-                                        dinas saja?</strong>
+                                        departemen saja?</strong>
                                     Saat mendaftar nanti diwajibkan untuk memilih 2
-                                    dinas yaa.
+                                    departemen yaa.
                                 </div>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                                             Mengumpulkan foto ukuran 3x4(bebas) dan
                                             KHS semester ganjil tahun ajaran 2024/2025
                                         </li>
-                                        <li>Membuat tugas yang diberikan dinas</li>
+                                        <li>Membuat tugas yang diberikan departemen</li>
                                     </ol>
                                 </div>
                             </div>
@@ -202,17 +202,17 @@
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-                                    Apakah wajib untuk mengerjakan tugas dinas yang
+                                    Apakah wajib untuk mengerjakan tugas departemen yang
                                     telah dipilih?
                                 </button>
                             </h2>
                             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <strong>Apakah wajib untuk mengerjakan tugas dinas
+                                    <strong>Apakah wajib untuk mengerjakan tugas departemen
                                         yang telah dipilih?</strong>
                                     Wajib ya,maka dari itu harus dikerjakanlah tugas
-                                    yang telah diberikan oleh dinasnya.
+                                    yang telah diberikan oleh departemennya.
                                 </div>
                             </div>
                         </div>
@@ -221,14 +221,14 @@
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-                                    Apakah untuk masuk dinas medinfo khususnya
+                                    Apakah untuk masuk departemen medinfo khususnya
                                     divisi multimedia harus memiliki kamera ?
                                 </button>
                             </h2>
                             <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    <strong>Apakah untuk masuk dinas medinfo khususnya
+                                    <strong>Apakah untuk masuk departemen medinfo khususnya
                                         divisi multimedia harus memiliki kamera
                                         ?</strong>
                                     Tentunya tidak harus memiliki kamera, tetapi jika memang memiliki kamera dan ingin
@@ -243,17 +243,17 @@
                                     data-bs-target="#collapseEleven" aria-expanded="false"
                                     aria-controls="collapseEleven">
                                     Apakah harus memiliki latar belakang sekretaris
-                                    untuk bisa mendaftar di dinas kestari ?
+                                    untuk bisa mendaftar di departemen kestari ?
                                 </button>
                             </h2>
                             <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <strong>Apakah harus memiliki latar belakang
-                                        sekretaris untuk bisa mendaftar di dinas
+                                        sekretaris untuk bisa mendaftar di departemen
                                         kestari ?</strong>
                                     Tidak harus memiliki latar belakang seorang
-                                    sekretaris buat daftar di dinas kestari, yang
+                                    sekretaris buat daftar di departemen kestari, yang
                                     penting memiliki kemauan dan keinginan untuk
                                     belajar dan berkembang dibidang kesekretariatan.
                                 </div>
@@ -285,14 +285,14 @@
                                     data-bs-target="#collapseThrteen" aria-expanded="false"
                                     aria-controls="collapseThrteen">
                                     Apakah harus memiliki bisnis/usaha untuk bisa
-                                    mendaftar di dinas bistra ?
+                                    mendaftar di departemen bistra ?
                                 </button>
                             </h2>
                             <div id="collapseThrteen" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
                                     <strong>Apakah harus memiliki bisnis/usaha untuk
-                                        bisa mendaftar di dinas bistra ?</strong>
+                                        bisa mendaftar di departemen bistra ?</strong>
                                     Tentu tidak. Yang terpenting memiliki keinginan untuk belajar serta mengembangkan
                                     kemampuan dalam hal bisnis dan kemitraan.
                                 </div>
@@ -310,7 +310,7 @@
                     data-bs-toggle="modal"
                     data-bs-target="#tugas"
                 >
-                    LIHAT TUGAS DINAS/DIVISI
+                    LIHAT TUGAS DEPARTEMEN/DIVISI
                 </button> --}}
 
                     <button type="button" class="regis__button text-white mb-3 mt-3" data-bs-toggle="modal"
@@ -330,7 +330,7 @@
                         <div class="modal-content container-md">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="tugas">
-                                    List Tugas Dinas/Divisi
+                                    List Tugas Departemen/Divisi
                                 </h5>
                                 <button
                                     type="button"
@@ -360,7 +360,7 @@
                                 </p>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                     BISTRA
                                 </h3>
                                 <p>
@@ -373,7 +373,7 @@
                                 </p>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                     MEDINFO (DIVISI MULMED)
                                 </h3>
                                 <p>
@@ -401,7 +401,7 @@
                                 </ul>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                     KESTARI
                                 </h3>
                                 <p>Membuat sebuah proposal dengan tema kegiatan webinar atau lomba.</p>
@@ -419,7 +419,7 @@
                                 </ul>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS PMB
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN PMB
                                     (DIVISI OLAHRAGA DAN SENI)
                                 </h3>
                                 <p>
@@ -439,7 +439,7 @@
                                 </ul>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                     RISTEK (DIVISI AKADEMIK)
                                 </h3>
                                 <ul>
@@ -450,7 +450,7 @@
                                 </ul>
                                 <hr />
                                 <h3 class="fs-5 fw-bolder">
-                                    <i class="bx bx-paper-plane"></i> DINAS
+                                    <i class="bx bx-paper-plane"></i> DEPARTEMEN
                                     RISTEK (DIVISI PTI)
                                 </h3>
                                 <p>
@@ -507,16 +507,16 @@
                                 ">
                                     <center>
                                         <p>
-                                            Klik atau scan barcode di bawah ini untuk menghubungi Zahra via Line
+                                            Klik atau scan barcode di bawah ini untuk menghubungi via Line
                                         </p>
-                                        <a href="https://line.me/ti/p/IJUsDFIawM" target="_blank">
+                                        <a href="https://line.me/ti/p/a4hGo3O5OI" target="_blank">
                                             <img border="0" src="{{ url('img/admin_barcode.jpg') }}" width="170"
                                                 height="170" /></a>
 
                                         <hr>
-                                        <a href="https://wa.me/6281272623991" target="_blank">
+                                        <a href="https://wa.me/6281279730993" target="_blank">
                                             <p>
-                                                Hubungi Naila via WhatsApp
+                                                Hubungi via WhatsApp
                                             </p>
                                         </a>
                                     </center>
@@ -535,7 +535,7 @@
                         <div class="form-footer" style="margin-top: 4rem">
                             <p style="color: black">
                                 Created by
-                                <a href="#"> Dinas RISTEK - Divisi PTI</a>
+                                <a href="#"> Departemen RISTEK - Divisi PTI</a>
                             </p>
                         </div>
                     </center>
