@@ -84,7 +84,7 @@ class AdminController extends Controller
     $user = User::where('id', $id)->first();
 
     $data = [
-      'title' => "Profile Pendaftar BPH HIMSI 2024",
+      'title' => "Profile Pendaftar BPH HIMSI 2025",
       'nav' => [
         'active' => 'dashboard',
       ],
@@ -103,7 +103,7 @@ class AdminController extends Controller
     $Semua = User::get();
 
     $data = [
-      'title' => "Profile Pendaftar BPH HIMSI 2024",
+      'title' => "Profile Pendaftar BPH HIMSI 2025",
       'nav' => [
         'active' => 'dashboard',
       ],
@@ -149,7 +149,7 @@ class AdminController extends Controller
     $Semua = User::get();
 
     $data = [
-      'title' => "Profile Pendaftar BPH HIMSI 2024",
+      'title' => "Profile Pendaftar BPH HIMSI 2025",
       'nav' => [
         'active' => 'dashboard',
       ],

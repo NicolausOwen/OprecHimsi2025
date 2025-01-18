@@ -10,7 +10,7 @@ class UserAuthController extends Controller
   public function login() {
 
     $data = [
-      'title' => 'OPREC BPH HIMSI 2024',
+      'title' => 'OPREC BPH HIMSI 2025',
       'nav' => [
         'active' => 'registration'
       ],
