@@ -57,7 +57,7 @@ class AdminController extends Controller
               })->get();
 
     $data = [
-      'title' => "Admin Dashboard ".$divisi." BPH HIMSI 2023",
+      'title' => "Admin Dashboard ".$divisi." BPH HIMSI 2025",
       'nav' => [
         'active' => 'dashboard',
       ],

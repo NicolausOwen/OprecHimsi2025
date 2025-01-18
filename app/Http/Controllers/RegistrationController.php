@@ -61,7 +61,7 @@ class RegistrationController extends Controller
 
     if ($mhs) {
       $data = [
-        'title' => 'REGISTRATION BPH HIMSI 2023',
+        'title' => 'REGISTRATION BPH HIMSI 2025',
         'nav' => [
           'active' => 'registration'
         ],

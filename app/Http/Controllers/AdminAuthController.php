@@ -10,7 +10,7 @@ class AdminAuthController extends Controller
   public function login() {
 
     $data = [
-      'title' => 'OPREC BPH HIMSI 2023',
+      'title' => 'OPREC BPH HIMSI 2025',
       'nav' => [
         'active' => 'admin'
       ],
