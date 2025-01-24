@@ -113,12 +113,14 @@
                                         </p>
                                         <ul>
                                             <li>
-                                                Buatlah Business Model Canvas dari suatu perusahaan yang ada di Indonesia!
+                                                Buatlah Business Model Canvas dari suatu perusahaan yang ada di Indonesia! (kirim dalam bentuk pdf)
                                             </li>
                                             <li>
-                                                Buat ide makanan manis, makanan asin, minuman dan merchandise masing masing 3! 
+                                                Buat ide makanan manis, makanan asin, minuman dan merchandise masing masing 3! (kirim dalam bentuk pdf)
                                             </li>
                                         </ul>
+
+                                        <p>Kirimkan Dalam Bentuk Zip melalui tempat upload yang sudah disediakan dibawah</p>
 
                                         {{-- <i class="bx bx-link"></i>
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-_QGTqasv7OvpRwg1fES3CXk2K-h66cuiJ-_3b1mtb8R7tg/viewform"
@@ -134,14 +136,14 @@
                                         </h3>
                                         <p>Mengerjakan tes psikologi yang telah disediakan dengan penuh konsentrasi dan kejujuran!</p>
 
-                                        {{-- <i class="bx bx-link"></i>
+                                        <i class="bx bx-link"></i>
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmyGigESS8DoRYXBC2HoGpJ8oU626qDkq8MdUuAFJjBzJ0oQ/viewform?usp=header"
                                             target="_blank">Link Pengerjaan Tugas</a>
-                                        <br> --}}
-                                        <i class="bx bx-link"></i>
+                                        <br>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br />
+                                        <br /> --}}
                                         <hr />
                                         
 
