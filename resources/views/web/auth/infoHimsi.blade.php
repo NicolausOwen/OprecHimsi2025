@@ -120,10 +120,10 @@
                                             </li>
                                         </ul>
 
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-_QGTqasv7OvpRwg1fES3CXk2K-h66cuiJ-_3b1mtb8R7tg/viewform"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -134,10 +134,10 @@
                                         </h3>
                                         <p>Mengerjakan tes psikologi yang telah disediakan dengan penuh konsentrasi dan kejujuran!</p>
 
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmyGigESS8DoRYXBC2HoGpJ8oU626qDkq8MdUuAFJjBzJ0oQ/viewform?usp=header"
                                             target="_blank">Link Pengerjaan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -176,10 +176,10 @@
                                                 telah disediakan (link di bawah ini) dengan membuat folder baru
                                                 dengan format (Nama_Kelas).</b>
                                         </p>
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1RUs_xNHrIuCUoz3SwdDHRZbpOvX8G7QP?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -197,10 +197,10 @@
                                         <br>
 
                                         <p><b>SS Dan Kumpulkan bukti :</b></p>
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/19LVU3h860ftYr2fXID3VTpemj4xArAfX"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -223,10 +223,10 @@
                                         </ul>
                                         <p>Proposal dikumpulkan dalam format PDF (.pdf) melalui link pengumpulan tugas yang tersedia.</p>
                                         
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1OzFIH1k5033_BOCXAvlamaOdbWm0QwsN?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -248,10 +248,10 @@
                                                         target="_blank" style="font-weight: 800">Panduan Pelaksanaan Tugas Departemen PMB</a>
                                         </ul>
 
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1f5CcyZKh_tNsPVdF1cBZMA9DZG5lDgkO?usp=drive_link"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -279,10 +279,10 @@
                                         </ul> --}}
 
                                         <p><b>SS Dan Kumpulkan bukti :</b></p>
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1SvMwU52OEbUy4XiczlO7kmyrVbbGQ1Fg"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
@@ -316,10 +316,10 @@
                                             </li>
                                         </ul>
 
-                                        <i class="bx bx-link"></i>
+                                        {{-- <i class="bx bx-link"></i>
                                         <a href="https://drive.google.com/drive/folders/1cnReJTVoHhlwbHHo19emS-mdS9kHx55n?usp=sharing"
                                             target="_blank">Link Pengumpulan Tugas</a>
-                                        <br>
+                                        <br> --}}
                                         <i class="bx bx-link"></i>
                                         <a href="https://forms.gle/28PDEYg7i9z2ovL49"
                                             target="_blank">Link Pengumpulan Tugas</a>
