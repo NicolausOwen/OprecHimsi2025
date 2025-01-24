@@ -44,7 +44,7 @@
                         <i class='bx bxs-calendar regis__icon'></i>
                         <input type="date" name="tgl_lahir" placeholder="Tanggal Lahir : &nbsp"
                             value="{{ old('tgl_lahir', date('Y-m-d')) }}" class="regis__input form-control"
-                            title="Tanggal Lahir" min="2001-01-01" max="2006-12-31" required>
+                            title="Tanggal Lahir" min="2001-01-01" max="2008-12-31" required>
                     </div>                    
                     @error('tgl_lahir')
                         <div class="form-text text-danger">{{ $message }}</div>
