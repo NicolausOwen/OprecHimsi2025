@@ -13,7 +13,8 @@ use Illuminate\Support\Facades\Session;
 
 class RegistrationController extends Controller
 {
-  public function index() {
+  public function index()
+  {
     if (Session::get('nim')) {
       return redirect()->route('formRegist')->with('success', 'Silahkan isi data anda');
     }
@@ -28,7 +29,8 @@ class RegistrationController extends Controller
     return view('web/registration/validateNIM', $data);
   }
 
-  public function validateNIM(Request $request) {
+  public function validateNIM(Request $request)
+  {
 
     $request->validate([
       'nim' => 'required|numeric',
@@ -49,7 +51,8 @@ class RegistrationController extends Controller
     return back()->with('error', 'NIM yang anda masukkan tidak sesuai');
   }
 
-  public function form() {
+  public function form()
+  {
 
     $mhs = Mahasiswa::isNIMValid(Session::get('nim'));
     $provinces = Provinces::all();
@@ -79,16 +82,18 @@ class RegistrationController extends Controller
     return redirect()->route('validateNIM')->with('error', 'Masukkan NIM anda terlebih dahulu');
   }
 
-  public function getKota($province_id) {
+  public function getKota($province_id)
+  {
 
     $regencies = Regencies::where('province_id', $province_id)->get();
 
-    foreach($regencies as $r) {
+    foreach ($regencies as $r) {
       echo "<option value='$r->name'>$r->name</option>";
     }
   }
 
-  public function storeForm(Request $request) {
+  public function storeForm(Request $request)
+  {
 
     $request->validate([
       'nim' => ['required', 'numeric', 'unique:users'],
@@ -106,23 +111,23 @@ class RegistrationController extends Controller
       'wawancara' => ['required', 'string'],
       'idline' => ['required', 'string'],
       'instagram' => ['required', 'string'],
-      'foto' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:4048'],
+      'foto' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:20480'],
       'khs' => ['required', 'file', 'max:10000'],
-      'bukti_ss' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:4048'],
+      'bukti_ss' => ['required', 'image', 'mimes:jpeg,png,jpg', 'max:20480'],
       'password' => ['required'],
     ]);
 
     if ($request->file('khs') && $request->file('foto') && $request->file('bukti_ss')) {
       $foto = $request->file('foto');
-      $fileFoto = date('YmdHi').".".$foto->getClientOriginalName();
+      $fileFoto = date('YmdHi') . "." . $foto->getClientOriginalName();
       $foto->move(public_path('foto'), $fileFoto);
 
       $khs = $request->file('khs');
-      $fileKHS = date('YmdHi').".".$khs->getClientOriginalName();
+      $fileKHS = date('YmdHi') . "." . $khs->getClientOriginalName();
       $khs->move(public_path('khs'), $fileKHS);
 
       $buktiSS = $request->file('bukti_ss');
-      $fileBuktiSS = date('YmdHi').".".$buktiSS->getClientOriginalName();
+      $fileBuktiSS = date('YmdHi') . "." . $buktiSS->getClientOriginalName();
       $buktiSS->move(public_path('bukti_ss'), $fileBuktiSS);
 
       $user = new User([
@@ -131,7 +136,7 @@ class RegistrationController extends Controller
         'tgl_lahir' => $request->tgl_lahir,
         'prodi' => $request->prodi,
         'kelas' => $request->kelas,
-        'domisili' => (explode(',', $request->provinsi))[1].', '.$request->kota,
+        'domisili' => (explode(',', $request->provinsi))[1] . ', ' . $request->kota,
         'pil1' => $request->pil1,
         'alasan1' => $request->alasan1,
         'pil2' => $request->pil2,
@@ -148,10 +153,10 @@ class RegistrationController extends Controller
 
       $user->save();
 
-      if(Auth::attempt([
+      if (Auth::attempt([
         "nim" => $request->nim,
         "password" => $request->password,
-      ])){
+      ])) {
         $request->session()->regenerate();
         return redirect()->intended('/infohimsi')->with("success", "Registrasi berhasil, silahkan baca informasi yang tersedia");
       };
